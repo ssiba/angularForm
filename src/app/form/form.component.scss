@@ -1,0 +1,30 @@
+.row {
+    display: flex; 
+    justify-content: space-between; 
+    margin-top: 50px; 
+}
+
+.profile-card {
+    flex: 1; 
+    max-width: 400px; 
+    padding: 20px; 
+    margin-left: 60px;
+}
+
+.table-card {
+    flex: 1; 
+    width: 600px; 
+    padding: 20px; 
+    padding-right: 20px;
+    margin-right: 30px;
+}
+
+  button[type="submit"] {
+    width: 100%; 
+    margin-top: 10px; 
+  }
+    mat-form-field {
+    margin-bottom: 20px;
+    width:333px
+  }
+
